@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Tree1_thanPhai
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -1905256524, guid: 126d202dd6f7de8478be3df54fc1a3cd, type: 3}
+  - {fileID: 788373264, guid: 126d202dd6f7de8478be3df54fc1a3cd, type: 3}
+  - {fileID: 57550146, guid: 126d202dd6f7de8478be3df54fc1a3cd, type: 3}
+  - {fileID: 710322179, guid: 126d202dd6f7de8478be3df54fc1a3cd, type: 3}
+  - {fileID: -510801526, guid: 126d202dd6f7de8478be3df54fc1a3cd, type: 3}
+  - {fileID: 515942493, guid: 126d202dd6f7de8478be3df54fc1a3cd, type: 3}
+  - {fileID: -195982423, guid: 126d202dd6f7de8478be3df54fc1a3cd, type: 3}
+  - {fileID: 168402121, guid: 126d202dd6f7de8478be3df54fc1a3cd, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

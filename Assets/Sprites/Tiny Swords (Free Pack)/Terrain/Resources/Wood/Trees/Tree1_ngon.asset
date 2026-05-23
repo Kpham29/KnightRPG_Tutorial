@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Tree1_ngon
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 1389975184, guid: 126d202dd6f7de8478be3df54fc1a3cd, type: 3}
+  - {fileID: -272384925, guid: 126d202dd6f7de8478be3df54fc1a3cd, type: 3}
+  - {fileID: 1298506044, guid: 126d202dd6f7de8478be3df54fc1a3cd, type: 3}
+  - {fileID: 1725944344, guid: 126d202dd6f7de8478be3df54fc1a3cd, type: 3}
+  - {fileID: -824932319, guid: 126d202dd6f7de8478be3df54fc1a3cd, type: 3}
+  - {fileID: -1059466872, guid: 126d202dd6f7de8478be3df54fc1a3cd, type: 3}
+  - {fileID: 1994591895, guid: 126d202dd6f7de8478be3df54fc1a3cd, type: 3}
+  - {fileID: 179262125, guid: 126d202dd6f7de8478be3df54fc1a3cd, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

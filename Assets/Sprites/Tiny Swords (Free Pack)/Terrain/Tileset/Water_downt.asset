@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Water_downt
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 1410641510, guid: 36d9357c299c09d44bac1770981b16d3, type: 3}
+  - {fileID: -1056012729, guid: 36d9357c299c09d44bac1770981b16d3, type: 3}
+  - {fileID: 881192897, guid: 36d9357c299c09d44bac1770981b16d3, type: 3}
+  - {fileID: 1332231401, guid: 36d9357c299c09d44bac1770981b16d3, type: 3}
+  - {fileID: 292276054, guid: 36d9357c299c09d44bac1770981b16d3, type: 3}
+  - {fileID: 97726312, guid: 36d9357c299c09d44bac1770981b16d3, type: 3}
+  - {fileID: 792837855, guid: 36d9357c299c09d44bac1770981b16d3, type: 3}
+  - {fileID: -2147356102, guid: 36d9357c299c09d44bac1770981b16d3, type: 3}
+  - {fileID: -1780023191, guid: 36d9357c299c09d44bac1770981b16d3, type: 3}
+  - {fileID: 103796676, guid: 36d9357c299c09d44bac1770981b16d3, type: 3}
+  - {fileID: 1909587964, guid: 36d9357c299c09d44bac1770981b16d3, type: 3}
+  - {fileID: 132786349, guid: 36d9357c299c09d44bac1770981b16d3, type: 3}
+  - {fileID: -327198073, guid: 36d9357c299c09d44bac1770981b16d3, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
