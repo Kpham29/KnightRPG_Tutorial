@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82bf07a7d6fb5d9448be146a11445f88, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  itemName: Sword
+  itemDescription: That is a good sword!!!
+  icon: {fileID: 21300000, guid: 2d819c4061c2365409c32ca50b8bc8ad, type: 3}
+  isGold: 0
+  stackSize: 1
+  currentHealth: 0
+  maxHealth: 0
+  speed: 0
+  damage: 8
+  duration: 0
