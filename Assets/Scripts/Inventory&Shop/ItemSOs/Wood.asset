@@ -16,8 +16,9 @@ MonoBehaviour:
   itemDescription: Just a wood ....
   icon: {fileID: 2111599047, guid: dc9089e39ece22147b092c9758dea36a, type: 3}
   isGold: 0
+  stackSize: 5
   currentHealth: 0
-  maxHealth: 0
-  speed: 0
-  damage: 0
-  duration: 0
+  maxHealth: 5
+  speed: 5
+  damage: 5
+  duration: 5

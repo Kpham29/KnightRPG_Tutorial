@@ -5,19 +5,11 @@ using UnityEngine;
 
 public class ShopManager : MonoBehaviour
 {
-    [SerializeField] private List<ShopItems> shopItems;
     [SerializeField] private ShopSlot[] shopSlots;
     [SerializeField] private InventoryManager inventoryManager;
+    
 
-    public static event Action<ShopManager, bool> OnShopStateChanged;
-
-    private void Start()
-    {
-        PopulateShopItems();
-        OnShopStateChanged?.Invoke(this, true);
-    }
-
-    public void PopulateShopItems()
+    public void PopulateShopItems(List<ShopItems> shopItems)
     {
         for (int i = 0; i < shopItems.Count && i < shopSlots.Length; i++)
         {
